@@ -21,12 +21,14 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 - Application of jaccard index: Species movement and multi-year comparison
 
 ## 👥 Contributors
-
 - Jacquie Carroll <jacq@udel.edu>
 - Sagnik Sinha <ssinha348@gatech.edu>
 - Kefei Yan <kyan66@gatech.edu>
 - Neelima Pandey <nsrivastava44@gatech.edu>
 
----
+## 🐍 Built With
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sagniksinha.HAAG-Spatial-Cameratrap)
+![Visitors](https://img.shields.io/badge/visitors-∞-blue?style=flat-square&logo=github)
+
+------------------------
