@@ -1,4 +1,5 @@
 # 🐾 Project HAAG Spatial Cameratrap
+# HAAG OMSCS Summer 2025
 
 ## 📌 Overview
 Welcome to **HAAG Spatial Cameratrap**. This repository contains everything you need to know about the project, along with links to important resources and contributors.
@@ -14,7 +15,7 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 - 🔍 Compare the **compositions of these communities**
 - 🌍 *(Stretch goal)* Compare communities from camera trap data with communities derived from **IUCN range maps**
 
-## 🧪 Experiments and Code Observations
+## 🧪 Experiments and code description
 - Data cleaning
 - Defining community and clustering: We have tried multiple clustering approach. Our final approach was Agglomerative clustering
 - Application of jaccard index: Species movement and multi-year comparison
