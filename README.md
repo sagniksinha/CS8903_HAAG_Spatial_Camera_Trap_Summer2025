@@ -16,10 +16,7 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 - 🌍 *(Stretch goal)* Compare communities from camera trap data with communities derived from **IUCN range maps**
 
 ## 🧪 Experiments and Observations
-*Coming soon...*
-
-## 🔜 Next Steps
-*To be updated...*
+- 
 
 ## 👥 Contributors
 
