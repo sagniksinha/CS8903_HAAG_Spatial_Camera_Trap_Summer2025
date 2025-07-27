@@ -23,9 +23,10 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 
 ## 👥 Contributors
 
-- Alice Smith <alice@example.com>
-- Bob Johnson <bob@example.com>
-- Charlie Zhang <charlie@sample.org>
+- Jacquie Carroll <jacq@udel.edu>
+- Sagnik Sinha <ssinha348@gatech.edu>
+- Kefei Yan <kyan66@gatech.edu>
+- Neelima Pandey <nsrivastava44@gatech.edu>
 
 ---
 
