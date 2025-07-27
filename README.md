@@ -7,7 +7,6 @@ Welcome to **HAAG Spatial Cameratrap**. This repository contains everything you 
 The team is investigating how **spatial scaling and averaging** influence the apparent composition of wildlife communities captured through camera trap data.
 
 ## 🎯 Goals
-
 - 📥 Download and clean **SnapShot USA** data
 - 📊 Compile species that comprise individual “communities” by:
   - Using single-site data in **1-year** and **multi-year** intervals
@@ -15,8 +14,10 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 - 🔍 Compare the **compositions of these communities**
 - 🌍 *(Stretch goal)* Compare communities from camera trap data with communities derived from **IUCN range maps**
 
-## 🧪 Experiments and Observations
-- 
+## 🧪 Experiments and Code Observations
+- Data cleaning
+- Defining community and clustering: We have tried multiple clustering approach. Our final approach was Agglomerative clustering
+- Application of jaccard index: Species movement and multi-year comparison
 
 ## 👥 Contributors
 
