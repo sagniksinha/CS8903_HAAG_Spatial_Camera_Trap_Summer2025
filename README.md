@@ -21,6 +21,12 @@ The team is investigating how **spatial scaling and averaging** influence the ap
 ## 🔜 Next Steps
 *To be updated...*
 
+## 👥 Contributors
+
+- Alice Smith <alice@example.com>
+- Bob Johnson <bob@example.com>
+- Charlie Zhang <charlie@sample.org>
+
 ---
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sagniksinha.HAAG-Spatial-Cameratrap)
