@@ -1,5 +1,5 @@
 # 🐾 Project HAAG Spatial Cameratrap
-# HAAG OMSCS Summer 2025
+HAAG OMSCS Summer 2025
 
 ## 📌 Overview
 Welcome to **HAAG Spatial Cameratrap**. This repository contains everything you need to know about the project, along with links to important resources and contributors.
