@@ -1,0 +1,131 @@
+Sci_Name,Class,Order,Family,Genus,Species,Common_Name,Cluster_List
+Alces alces,mammalia,cetartiodactyla,cervidae,alces,alces,moose,"13,19,29,47,51,53,54,55,59,80,88,91,103,111,137,147,206"
+Ammospermophilus harrisii,mammalia,rodentia,sciuridae,ammospermophilus,harrisii,harris's antelope squirrel,"31,101,112,200"
+Ammospermophilus leucurus,mammalia,rodentia,sciuridae,ammospermophilus,leucurus,white-tailed antelope squirrel,"37,43,129,151"
+Antilocapra americana,mammalia,cetartiodactyla,antilocapridae,antilocapra,americana,pronghorn,"69,79,80,90,103,111,120,134,149,197,205,208"
+Aplodontia rufa,mammalia,rodentia,aplodontiidae,aplodontia,rufa,mountain beaver,"45,48,164"
+Bassariscus astutus,mammalia,carnivora,procyonidae,bassariscus,astutus,ringtail,"43,63,67,112,117,183,204"
+Bison bison,mammalia,cetartiodactyla,bovidae,bison,bison,american bison,"52,69,103,149,208"
+Blarina brevicauda,mammalia,eulipotyphla,soricidae,blarina,brevicauda,northern short-tailed shrew,"17,59"
+Bos taurus,mammalia,cetartiodactyla,bovidae,bos,taurus,domestic cattle,"4,11,13,14,23,35,39,44,52,53,63,64,67,69,79,89,90,93,103,111,112,117,118,120,125,133,134,136,140,141,148,149,150,158,161,171,172,175,185,188,195,200,203,204,205,208"
+Boselaphus tragocamelus,mammalia,cetartiodactyla,bovidae,boselaphus,tragocamelus,nilgai,41
+Brachylagus idahoensis,mammalia,lagomorpha,leporidae,brachylagus,idahoensis,pygmy rabbit,90
+Callospermophilus lateralis,mammalia,rodentia,sciuridae,callospermophilus,lateralis,golden mantled ground squirrel,"132,142,209"
+Canis familiaris,mammalia,carnivora,canidae,canis,familiaris,domestic dog,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,27,30,31,33,34,35,36,37,38,39,40,41,42,43,44,47,48,49,50,51,53,54,55,56,57,59,60,61,62,63,65,67,69,70,72,74,76,77,79,80,81,82,83,84,85,86,88,89,90,91,92,93,94,96,97,98,99,104,106,108,111,113,114,115,116,118,119,121,123,124,125,127,128,129,130,131,132,133,134,135,137,138,139,141,142,143,145,146,147,148,152,153,154,157,158,160,161,162,163,164,165,166,168,169,170,172,173,175,176,177,178,179,180,181,183,184,185,187,190,191,195,197,199,200,201,203,205,208,209,210"
+Canis latrans,mammalia,carnivora,canidae,canis,latrans,coyote,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,43,44,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,65,66,67,68,69,70,71,72,73,74,76,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,103,104,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,160,161,162,163,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,192,193,194,195,197,198,199,200,201,203,204,205,206,207,208,209,210"
+Canis lupus,mammalia,carnivora,canidae,canis,lupus,grey wolf,"13,44,47,53,54,55,68,99,111,119,123,137,206"
+Canis rufus,mammalia,carnivora,canidae,canis,rufus,red wolf,"8,18"
+Capra aegagrus hircus,mammalia,cetartiodactyla,bovidae,capra,aegagrus hircus,domestic goat,"39,67,175,185"
+Castor canadensis,mammalia,rodentia,castoridae,castor,canadensis,american beaver,"2,6,9,12,13,19,23,26,30,60,69,123,133,142,145,158,161,171,172,184,195"
+Cervus canadensis,mammalia,cetartiodactyla,cervidae,cervus,canadensis,elk,"0,13,19,44,51,52,53,54,79,80,81,90,99,103,111,120,123,142,159,174,203,206,208,209"
+Chaetodipus hispidus,mammalia,rodentia,heteromyidae,chaetodipus,hispidus,hispid pocket mouse,172
+Conepatus leuconotus,mammalia,carnivora,mephitidae,conepatus,leuconotus,american hog-nosed skunk,"31,112,117"
+Cynomys leucurus,mammalia,rodentia,sciuridae,cynomys,leucurus,white-tailed prairie dog,90
+Cynomys ludovicianus,mammalia,rodentia,sciuridae,cynomys,ludovicianus,black-tailed prairie dog,"69,103,120,125,197,208"
+Dasypus novemcinctus,mammalia,cingulata,dasypodidae,dasypus,novemcinctus,nine-banded armadillo,"6,10,12,14,15,21,22,24,25,26,27,32,35,36,39,41,46,52,56,58,63,64,65,66,67,73,76,83,84,86,87,94,95,96,102,113,115,118,121,127,133,139,140,144,146,148,155,165,167,170,171,172,182,187,190,194,198,202"
+Didelphis virginiana,mammalia,didelphimorphia,didelphidae,didelphis,virginiana,virginia opossum,"0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,23,24,25,26,27,30,32,33,35,36,38,39,40,41,42,46,48,50,56,57,58,59,60,61,62,63,64,65,66,67,70,71,72,73,76,78,82,83,84,85,86,92,93,94,95,96,97,98,100,102,104,107,108,109,112,113,115,116,121,124,125,126,127,128,130,131,133,135,138,139,140,141,143,144,145,146,148,152,153,154,155,158,161,162,163,164,165,166,167,168,170,171,172,173,175,176,177,179,180,181,182,183,184,185,187,188,189,190,193,194,195,196,198,201,202,204,207"
+Dipodomys deserti,mammalia,rodentia,heteromyidae,dipodomys,deserti,desert kangaroo rat,"31,37,79"
+Dipodomys ingens,mammalia,rodentia,heteromyidae,dipodomys,ingens,giant kangaroo rat,79
+Dipodomys merriami,mammalia,rodentia,heteromyidae,dipodomys,merriami,merriam's kangaroo rat,"28,37,43"
+Dipodomys nitratoides,mammalia,rodentia,heteromyidae,dipodomys,nitratoides,fresno kangaroo rat,79
+Dipodomys ordii,mammalia,rodentia,heteromyidae,dipodomys,ordii,ord's kangaroo rat,"90,129"
+Equus asinus,mammalia,perissodactyla,equidae,equus,asinus,domestic donkey,"23,67"
+Equus caballus,mammalia,perissodactyla,equidae,equus,caballus,domestic horse,"5,7,9,13,18,19,23,30,31,35,37,39,44,53,60,77,81,90,101,111,112,118,119,132,133,135,148,152,153,161,170,205,208"
+Erethizon dorsatum,mammalia,rodentia,erethizontidae,erethizon,dorsatum,north american porcupine,"16,19,20,40,47,51,52,53,54,55,59,67,68,69,70,78,89,91,97,99,111,112,114,118,133,134,137,138,147,172,192,196,206,208"
+Felis catus,mammalia,carnivora,felidae,felis,catus,domestic cat,"1,2,5,6,7,8,9,10,14,16,17,18,19,22,23,26,30,31,33,35,37,38,40,42,48,49,50,51,55,56,59,60,61,62,67,69,70,72,74,77,81,82,85,86,92,93,98,100,104,113,114,116,123,124,129,131,133,135,137,141,143,147,152,153,154,161,163,165,166,168,170,175,176,177,180,183,189,190,191,193,199,201,207"
+Glaucomys sabrinus,mammalia,rodentia,sciuridae,glaucomys,sabrinus,northern flying squirrel,"0,5,8,16,19,29,30,34,44,45,48,53,54,68,72,74,75,81,85,111,123,137,147,164,185,192,195"
+Glaucomys volans,mammalia,rodentia,sciuridae,glaucomys,volans,mexican flying squirrel,"1,2,5,6,9,12,14,17,26,27,30,32,57,82,85,86,96,98,116,124,128,139,147,153,156,165,176,185,195,198"
+Gulo gulo,mammalia,carnivora,mustelidae,gulo,gulo,wolverine,55
+Ictidomys tridecemlineatus,mammalia,rodentia,sciuridae,ictidomys,tridecemlineatus,thirteen-lined ground squirrel,"23,157"
+Lama glama,mammalia,cetartiodactyla,camelidae,lama,glama,llama,49
+Lariscus insignis,mammalia,rodentia,sciuridae,lariscus,insignis,three-striped ground squirrel,157
+Lepus alleni,mammalia,lagomorpha,leporidae,lepus,alleni,antelope jackrabbit,"31,204"
+Lepus americanus,mammalia,lagomorpha,leporidae,lepus,americanus,snowshoe hare,"0,13,19,20,29,31,34,44,45,47,51,53,54,68,88,91,99,111,114,119,135,137,142,147,159,192"
+Lepus californicus,mammalia,lagomorpha,leporidae,lepus,californicus,black-tailed jackrabbit,"28,31,37,41,43,69,79,101,112,118,125,129,133,150,151,152,174,177,183,188,200,204"
+Lepus townsendii,mammalia,lagomorpha,leporidae,lepus,townsendii,white-tailed jackrabbit,"19,23,44,53,80,89,90,103,134,142,143,149,205,208"
+Lontra canadensis,mammalia,carnivora,mustelidae,lontra,canadensis,north american river otter,"2,5,6,10,12,14,18,20,34,49,52,60,98,99,123,140,148,159,161,163,164,178,180,190,195"
+Lynx canadensis,mammalia,carnivora,felidae,lynx,canadensis,canada lynx,"29,55,91"
+Lynx rufus,mammalia,carnivora,felidae,lynx,rufus,bobcat,"0,3,4,5,6,8,9,10,11,12,13,14,15,16,17,18,19,20,22,24,26,27,30,31,32,35,36,37,39,41,43,44,45,47,48,50,51,52,53,56,57,59,60,63,65,67,69,70,71,73,74,76,78,79,82,83,84,85,86,90,92,93,94,96,97,98,99,100,101,102,104,106,107,109,110,112,113,114,115,116,117,118,119,121,122,124,126,127,129,130,132,133,137,138,139,140,142,143,144,145,146,147,148,152,153,155,158,161,163,164,165,166,167,169,171,172,174,175,178,179,180,181,182,183,184,185,186,187,188,189,190,192,195,196,198,200,201,204,207,208,209"
+Marmota monax,mammalia,rodentia,sciuridae,marmota,monax,groundhog,"1,2,12,14,16,17,26,30,32,38,40,42,46,50,57,60,62,72,85,86,93,113,116,121,128,135,139,141,153,154,155,163,166,176,189,193,195,198,201"
+Martes americana,mammalia,carnivora,mustelidae,martes,americana,american marten,"13,20,29,34,54,55,91,111,114,137,147,159,206"
+Mephitis macroura,mammalia,carnivora,mephitidae,mephitis,macroura,hooded skunk,"31,112,117,204"
+Mephitis mephitis,mammalia,carnivora,mephitidae,mephitis,mephitis,striped skunk,"1,2,3,5,6,8,9,11,12,13,14,16,17,19,20,23,26,28,31,32,35,38,39,40,41,43,44,47,50,51,52,53,54,56,57,58,59,60,61,62,65,67,68,69,70,72,75,77,79,80,81,82,84,85,92,93,94,98,99,100,106,107,108,110,111,112,113,114,116,118,123,125,126,127,130,133,134,135,136,137,139,140,141,143,146,148,150,152,153,154,155,157,158,161,163,164,167,168,169,170,171,172,173,174,176,178,179,180,181,183,185,187,188,193,195,196,197,198,199,200,201,204,208,209"
+Microtus ochrogaster,mammalia,rodentia,cricetidae,microtus,ochrogaster,prairie vole,12
+Mus musculus,mammalia,rodentia,cricetidae,mus,musculus,house mouse,30
+Mustela erminea,mammalia,carnivora,mustelidae,mustela,erminea,stoat,"0,16,19,20,50,53,55,59,60,85,89,114,138,147,157,164,176,195"
+Mustela frenata,mammalia,carnivora,mustelidae,mustela,frenata,long-tailed weasel,"0,2,6,8,14,17,19,23,29,30,34,44,50,53,54,57,59,72,79,85,97,103,116,128,143,147,153,154,156,164,176,192,195,209"
+Myodes gapperi,mammalia,rodentia,cricetidae,myodes,gapperi,southern red-backed vole,114
+Napaeozapus insignis,mammalia,rodentia,dipodidae,napaeozapus,insignis,woodland jumping mouse,"40,59"
+Nasua narica,mammalia,carnivora,procyonidae,nasua,narica,white-nosed coati,"112,117,204"
+Neotamias amoenus,mammalia,rodentia,sciuridae,neotamias,amoenus,yellow-pine chipmunk,"123,183"
+Neotamias dorsalis,mammalia,rodentia,sciuridae,neotamias,dorsalis,cliff chipmunk,"43,101,200"
+Neotamias merriami,mammalia,rodentia,sciuridae,neotamias,merriami,merriam's chipmunk,183
+Neotamias minimus,mammalia,rodentia,sciuridae,neotamias,minimus,least chipmunk,"19,51,54,90,137,203"
+Neotamias obscurus,mammalia,rodentia,sciuridae,neotamias,obscurus,california chipmunk,169
+Neotamias panamintinus,mammalia,rodentia,sciuridae,neotamias,panamintinus,panamint chipmunk,195
+Neotamias ruficaudus,mammalia,rodentia,sciuridae,neotamias,ruficaudus,red-tailed chipmunk,158
+Neotamias senex,mammalia,rodentia,sciuridae,neotamias,senex,allen's chipmunk,105
+Neotamias sonomae,mammalia,rodentia,sciuridae,neotamias,sonomae,sonoma chipmunk,179
+Neotamias speciosus,mammalia,rodentia,sciuridae,neotamias,speciosus,lodgepole chipmunk,183
+Neotamias townsendii,mammalia,rodentia,sciuridae,neotamias,townsendii,townsend's chipmunk,"16,48,51,164"
+Neotamias umbrinus,mammalia,rodentia,sciuridae,neotamias,umbrinus,uinta chipmunk,43
+Neotoma albigula,mammalia,rodentia,cricetidae,neotoma,albigula,white-throated woodrat,31
+Neotoma cinerea,mammalia,rodentia,cricetidae,neotoma,cinerea,bushy-tailed woodrat,"44,53,90,164"
+Neotoma floridana,mammalia,rodentia,cricetidae,neotoma,floridana,eastern woodrat,"25,26,33,73,94,113,139,185,187"
+Neotoma fuscipes,mammalia,rodentia,cricetidae,neotoma,fuscipes,dusky-footed woodrat,"164,179"
+Neotoma lepida,mammalia,rodentia,cricetidae,neotoma,lepida,desert woodrat,"43,132,209"
+Neotoma mexicana,mammalia,rodentia,cricetidae,neotoma,mexicana,mexican woodrat,"31,209"
+Neotoma micropus,mammalia,rodentia,cricetidae,neotoma,micropus,southern plains woodrat,"35,41"
+Neovison vison,mammalia,carnivora,mustelidae,neovison,vison,american mink,"2,6,9,12,13,14,19,20,23,32,38,57,59,60,61,72,98,99,108,114,116,123,137,141,153,154,156,168,177,189,195"
+Odocoileus hemionus,mammalia,cetartiodactyla,cervidae,odocoileus,hemionus,mule deer,"0,13,19,31,41,43,44,45,48,49,51,53,54,57,69,74,75,80,81,89,90,101,103,105,110,111,117,118,120,125,129,132,133,134,136,142,146,149,152,157,158,159,164,169,172,174,178,179,181,183,188,197,199,200,203,206,208,209"
+Odocoileus virginianus,mammalia,cetartiodactyla,cervidae,odocoileus,virginianus,white-tailed deer,"0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,21,22,23,24,25,26,27,29,30,31,32,34,35,36,38,39,40,41,42,44,46,47,49,50,51,52,53,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,76,77,78,80,81,82,83,84,85,86,87,88,89,91,92,93,94,95,96,97,98,99,100,102,103,104,106,107,108,109,111,112,113,114,115,116,117,118,119,121,122,123,124,125,126,127,128,130,131,133,135,136,137,138,139,140,141,142,143,144,145,146,147,148,153,154,155,156,157,160,161,162,163,165,166,167,170,171,172,173,174,175,176,177,180,182,184,185,186,187,189,190,192,193,194,195,196,197,198,201,202,203,204,207,208,209,210"
+Ondatra zibethicus,mammalia,rodentia,cricetidae,ondatra,zibethicus,muskrat,"12,16,19,123,188,195"
+Onychomys leucogaster,mammalia,rodentia,cricetidae,onychomys,leucogaster,northern grasshopper mouse,172
+Oryx gazella,mammalia,cetartiodactyla,bovidae,oryx,gazella,gemsbok,28
+Otospermophilus beecheyi,mammalia,rodentia,sciuridae,otospermophilus,beecheyi,california ground squirrel,"79,132,152,164,169,183"
+Otospermophilus variegatus,mammalia,rodentia,sciuridae,otospermophilus,variegatus,rock squirrel,"19,31,43,101,112,117,129,200,209"
+Ovis aries,mammalia,cetartiodactyla,bovidae,ovis,aries,domestic sheep,"23,39,49,90"
+Ovis canadensis,mammalia,cetartiodactyla,bovidae,ovis,canadensis,bighorn sheep,111
+Pecari tajacu,mammalia,cetartiodactyla,tayassuidae,pecari,tajacu,collared peccary,"31,35,41,58,84,101,112,117,118,200,204"
+Pekania pennanti,mammalia,carnivora,mustelidae,pekania,pennanti,fisher,"2,16,20,29,34,40,54,57,59,70,78,85,97,99,105,114,119,124,137,138,145,147,176,186,192,195"
+Peromyscus gossypinus,mammalia,rodentia,cricetidae,peromyscus,gossypinus,cotton mouse,"12,33"
+Peromyscus leucopus,mammalia,rodentia,cricetidae,peromyscus,leucopus,white-footed mouse,"2,8,9,16,30,32,41,57,60,72,73,85,86,147,176,180,195"
+Peromyscus maniculatus,mammalia,rodentia,cricetidae,peromyscus,maniculatus,north american deermouse,"32,51,129,132,166,172"
+Procyon lotor,mammalia,carnivora,procyonidae,procyon,lotor,northern raccoon,"0,1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30,31,32,33,34,35,36,38,39,40,41,42,43,46,47,48,49,50,51,52,53,54,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,76,77,78,80,81,82,83,84,85,86,87,90,92,93,94,95,96,97,98,99,100,101,102,103,104,106,107,108,109,112,113,114,115,116,117,118,119,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,137,138,139,140,141,142,143,144,145,146,147,148,152,153,154,155,156,158,160,161,162,163,164,165,166,167,168,169,170,171,172,173,175,176,177,178,179,180,181,182,183,184,185,186,187,188,189,190,193,194,195,196,197,198,199,200,201,202,207,208,209,210"
+Puma concolor,mammalia,carnivora,felidae,puma,concolor,puma,"0,13,19,31,44,53,54,74,75,79,105,110,111,112,123,140,158,164,169,174,183,188,199,200,204,209"
+Rattus norvegicus,mammalia,rodentia,muridae,rattus,norvegicus,brown rat,"1,12,30,195"
+Rattus rattus,mammalia,rodentia,muridae,rattus,rattus,house rat,"22,33,48,131"
+Sciurus aberti,mammalia,rodentia,sciuridae,sciurus,aberti,abert's squirrel,"142,174,209"
+Sciurus arizonensis,mammalia,rodentia,sciuridae,sciurus,arizonensis,arizona gray squirrel,"112,174,200"
+Sciurus carolinensis,mammalia,rodentia,sciuridae,sciurus,carolinensis,eastern gray squirrel,"1,2,3,4,5,6,7,8,9,10,11,12,14,15,16,17,18,20,21,22,24,25,26,27,29,30,32,33,34,36,38,40,42,46,48,49,50,51,56,57,59,62,63,64,66,67,70,71,72,73,76,77,78,82,83,85,86,87,92,93,94,95,96,97,98,99,100,102,104,106,108,109,110,113,114,115,116,121,122,124,126,127,128,130,135,137,138,139,140,141,143,144,145,146,147,148,153,154,155,156,160,161,162,163,165,166,167,168,170,173,175,176,177,179,180,182,183,184,185,186,187,189,190,192,193,194,195,196,198,200,201,202,207,210"
+Sciurus griseus,mammalia,rodentia,sciuridae,sciurus,griseus,western gray squirrel,"6,51,75,105,132,158,164,179,183,188,199,200"
+Sciurus niger,mammalia,rodentia,sciuridae,sciurus,niger,eastern fox squirrel,"2,3,6,8,9,10,12,14,15,16,17,19,21,23,25,26,27,30,32,36,38,39,42,46,52,56,58,60,61,62,63,64,65,67,73,76,81,84,87,92,94,95,96,102,104,107,108,115,116,118,127,128,133,135,139,143,146,148,152,153,154,156,161,163,166,167,168,171,172,173,177,181,182,187,189,193,194,195,199,201,207,209"
+Sigmodon hispidus,mammalia,rodentia,cricetidae,sigmodon,hispidus,hispid cotton rat,"10,33,167,172"
+Spilogale gracilis,mammalia,carnivora,mephitidae,spilogale,gracilis,western spotted skunk,"31,43,45,75,101,112,151,164,183,204,209"
+Spilogale putorius,mammalia,carnivora,mephitidae,spilogale,putorius,eastern spotted skunk,"8,9,58,67,100,185"
+Sus scrofa,mammalia,cetartiodactyla,suidae,sus,scrofa,wild pig,"10,12,15,27,35,39,41,52,58,65,66,67,73,76,79,83,84,87,94,95,96,109,110,118,121,122,125,127,133,140,146,148,161,170,171,172,187,188,190,191,194,200"
+Sus scrofa scrofa,mammalia,cetartiodactyla,suidae,sus,scrofa scrofa,domestic pig,"67,79,133,191"
+Sylvilagus aquaticus,mammalia,lagomorpha,leporidae,sylvilagus,aquaticus,swamp rabbit,"56,67,96,190"
+Sylvilagus audubonii,mammalia,lagomorpha,leporidae,sylvilagus,audubonii,desert cottontail,"31,43,101,112,117,129,151,152,169,181,183,199,200,204,208,209"
+Sylvilagus bachmani,mammalia,lagomorpha,leporidae,sylvilagus,bachmani,brush rabbit,"79,152,158,164,178,179,181,183,199"
+Sylvilagus floridanus,mammalia,lagomorpha,leporidae,sylvilagus,floridanus,eastern cottontail,"0,1,2,3,4,5,6,7,8,9,10,11,12,14,16,17,18,20,21,22,23,24,26,27,30,32,35,38,39,40,41,42,48,50,52,56,57,59,60,61,62,63,64,65,66,67,69,70,71,72,73,76,77,82,84,85,86,92,93,94,95,96,97,98,102,104,106,107,109,112,113,115,116,118,121,126,130,133,135,137,138,139,140,141,143,144,145,146,148,153,154,161,162,163,165,166,168,172,173,175,176,177,182,184,187,189,190,192,193,195,197,198,201,207"
+Sylvilagus nuttallii,mammalia,lagomorpha,leporidae,sylvilagus,nuttallii,mountain cottontail,"19,31,44,51,53,81"
+Sylvilagus obscurus,mammalia,lagomorpha,leporidae,sylvilagus,obscurus,appalachian cottontail,"8,185"
+Sylvilagus palustris,mammalia,lagomorpha,leporidae,sylvilagus,palustris,marsh rabbit,"10,18,66,73,148,175"
+Tamias striatus,mammalia,rodentia,sciuridae,tamias,striatus,eastern chipmunk,"1,2,8,9,12,16,17,20,22,30,32,34,38,40,50,57,59,60,70,72,77,78,82,85,86,93,97,98,99,100,104,108,113,114,115,116,124,135,137,138,139,141,143,145,147,153,154,156,163,165,166,168,176,177,180,185,186,192,193,195,196,201"
+Tamiasciurus douglasii,mammalia,rodentia,sciuridae,tamiasciurus,douglasii,douglas's squirrel,"0,45,48,49,51,74,75,85,100,105,107,126,132,158,164,179,183,195,209"
+Tamiasciurus hudsonicus,mammalia,rodentia,sciuridae,tamiasciurus,hudsonicus,red squirrel,"2,8,13,16,19,20,29,34,40,44,51,53,54,55,57,59,68,70,78,81,85,88,91,99,108,111,114,116,123,124,137,138,147,153,156,158,159,163,174,176,177,186,192,195,206,209,210"
+Taxidea taxus,mammalia,carnivora,mustelidae,taxidea,taxus,american badger,"19,23,28,35,37,43,53,54,60,68,69,79,89,90,101,103,107,111,117,118,123,125,129,134,135,151,156,174,197,205,208"
+Thomomys bottae,mammalia,rodentia,geomyidae,thomomys,bottae,botta's pocket gopher,169
+Urocitellus armatus,mammalia,rodentia,sciuridae,urocitellus,armatus,uinta ground squirrel,19
+Urocitellus richardsonii,mammalia,rodentia,sciuridae,urocitellus,richardsonii,richardson's ground squirrel,134
+Urocyon cinereoargenteus,mammalia,carnivora,canidae,urocyon,cinereoargenteus,grey fox,"4,5,6,7,8,10,11,14,15,16,17,20,22,24,27,30,31,35,38,39,40,43,50,52,56,57,62,63,67,68,69,70,71,73,76,78,82,83,85,86,87,93,97,98,101,105,110,112,113,114,117,124,130,133,135,137,142,145,146,147,151,161,162,165,169,170,171,174,175,176,179,181,183,187,188,190,194,195,198,199,200,201,204,209"
+Ursus americanus,mammalia,carnivora,ursidae,ursus,americanus,american black bear,"0,5,8,9,10,11,13,16,17,18,19,20,24,29,31,34,44,45,47,48,50,51,53,54,55,59,68,70,71,74,75,78,80,81,83,85,88,91,97,99,100,104,105,109,111,112,113,114,117,119,121,123,124,126,127,130,132,137,138,139,144,145,147,148,164,170,174,175,179,183,185,186,188,192,196,198,204,206,209,210"
+Ursus arctos,mammalia,carnivora,ursidae,ursus,arctos,brown bear,"13,53,55,80,111,123,159"
+Urva javanica,mammalia,carnivora,herpestidae,urva,javanica,javan mongoose,191
+Vulpes macrotis,mammalia,carnivora,canidae,vulpes,macrotis,kit fox,"28,37,43,79,151"
+Vulpes velox,mammalia,carnivora,canidae,vulpes,velox,swift fox,"69,134,150,205"
+Vulpes vulpes,mammalia,carnivora,canidae,vulpes,vulpes,red fox,"1,2,3,4,5,6,7,8,9,10,12,13,14,16,17,19,20,22,23,26,30,32,34,38,39,40,42,47,50,51,53,54,56,57,60,61,62,67,68,70,72,76,78,80,81,82,85,86,90,93,97,98,99,100,104,106,108,111,114,116,119,121,123,124,129,135,137,141,142,145,147,150,153,154,156,159,160,161,166,168,170,173,175,176,177,180,184,186,187,189,190,193,195,201,206,209,210"
+Xerospermophilus tereticaudus,mammalia,rodentia,sciuridae,xerospermophilus,tereticaudus,round-tailed ground squirrel,"31,112"
+Zalophus californianus,mammalia,carnivora,otariidae,zalophus,californianus,californian sea lion,178
+Zapus hudsonius,mammalia,rodentia,dipodidae,zapus,hudsonius,meadow jumping mouse,"85,195"
